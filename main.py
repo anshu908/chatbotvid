@@ -5,7 +5,7 @@ import threading
 from flask import Flask
 
 # Telegram bot token
-TOKEN = "7923532245:AAGMx14E5iLuf_vgESonhL4sgN9eJAcoT6Y"
+TOKEN = "7797687986:AAGfxBxAJAZDKZIY2RCdF9rflIiXY90ib9M"
 bot = telebot.TeleBot(TOKEN)
 
 # DeepSeek API URL
